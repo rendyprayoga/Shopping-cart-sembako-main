@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sembako-main/static/css/main.585ff599.css",
+    "main.js": "/sembako-main/static/js/main.d304848b.js",
+    "static/media/tepung.png": "/sembako-main/static/media/tepung.4772faee0f8dde0638b1.png",
+    "static/media/endog.png": "/sembako-main/static/media/endog.25a153a2f3a0b3699f8c.png",
+    "static/media/momy poko.png": "/sembako-main/static/media/momy poko.b0fa2d1bd97c5ea66279.png",
+    "static/media/gulaku.png": "/sembako-main/static/media/gulaku.1f0f4be975fb4ef3841a.png",
+    "static/media/sania.png": "/sembako-main/static/media/sania.bbf9c7d9cb4ccb278f10.png",
+    "static/media/bimoli.png": "/sembako-main/static/media/bimoli.104e595fff583a5232f5.png",
+    "index.html": "/sembako-main/index.html",
+    "main.585ff599.css.map": "/sembako-main/static/css/main.585ff599.css.map",
+    "main.d304848b.js.map": "/sembako-main/static/js/main.d304848b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585ff599.css",
+    "static/js/main.d304848b.js"
+  ]
+}
