@@ -16,3 +16,7 @@ Rendy Prayoga-120140036
   ## if done u can run :
 - npm start in our localhost
 -------------------------------------
+# link hosting :https://rendyprayoga.github.io/sembako-main/
+- if u succes to click link hosting then click navbar home
+- u can click whatever in product and
+- add to chart then checkout
