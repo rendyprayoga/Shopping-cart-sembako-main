@@ -24,5 +24,5 @@ export const CartItem = (props) => {
         </div>
       </div>
     </div>
-  );
+  ); 
 };
